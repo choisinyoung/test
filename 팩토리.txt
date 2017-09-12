@@ -1,0 +1,4 @@
+규칙
+1. 확장자 : .properties
+2. 저장위치 : classpath 상대경로
+3. 데이터 표현 방법 : key=value
